@@ -1,3 +1,10 @@
 ['type', 'possession_team', 'play_pattern', 'team', 'tactics','related_events', 'player', 'position', 'location', 'pass', 'carry','ball_receipt', 'duel', 'interception', 'block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won', 'foul_committed','substitution', 'clearance', 'point_of_entry']
 
+Columns By Group Member:
+Esperanza: ['type', 'possession_team', 'play_pattern', 'team']
+Gokul: ['block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won']
+Arnav:
+Nikhil: 
+
+
 https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Events%20v4.0.0.pdf
