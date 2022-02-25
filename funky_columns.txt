@@ -1,4 +1,4 @@
-['type', 'possession_team', 'play_pattern', 'team', 'tactics','related_events', 'player', 'position', 'location', 'pass', 'carry','ball_receipt', 'duel', 'interception', 'block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won', 'foul_committed','substitution', 'clearance', 'point_of_entry']
+['type', 'possession_team', 'play_pattern', 'team', 'tactics','related_events', 'player', 'position', 'location', 'pass', 'carry','ball_receipt', 'duel', 'interception', 'block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won', 'foul_committed', 'substitution']
 -> I have a different list of columns for the example file I pulled, we'll have to make sure that we cover all possible cases
 
 
