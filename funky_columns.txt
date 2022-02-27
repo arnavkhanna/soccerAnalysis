@@ -1,4 +1,4 @@
-['type', 'possession_team', 'play_pattern', 'team', 'tactics','related_events', 'player', 'position', 'location', 'pass', 'carry','ball_receipt', 'duel', 'interception', 'block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won', 'foul_committed', 'substitution']
+TO CLEAN: ['type', 'possession_team', 'play_pattern', 'team', 'tactics','related_events', 'player', 'position', 'location', 'pass', 'carry','ball_receipt', 'duel', 'interception', 'block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won', 'foul_committed', 'substitution']
 -> I have a different list of columns for the example file I pulled, we'll have to make sure that we cover all possible cases
 
 
@@ -6,8 +6,8 @@ Columns By Group Member:
 Esperanza: ['type', 'possession_team', 'play_pattern', 'team', 'related_events', 'interception', 'substitution', 'player', 'position', 'bad_behaviour', 'location', 'pass']
 -> 'related_events' is strange, we may want to pull that out and use separately
 Gokul: ['block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won']
-Arnav:
-Nikhil: 
+Arnav: ['tactics', 'carry', 'ball_receipt']
+Nikhil: ['duel', 'interception', 'foul_committed']
 
 
 https://github.com/statsbomb/open-data/blob/master/doc/Open%20Data%20Events%20v4.0.0.pdf
