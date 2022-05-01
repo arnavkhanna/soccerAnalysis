@@ -5,8 +5,8 @@ TO CLEAN: ['type', 'possession_team', 'play_pattern', 'team', 'tactics','related
 Columns By Group Member:
 Esperanza: ['type', 'possession_team', 'play_pattern', 'team', 'related_events', 'interception', 'substitution', 'player', 'position', 'bad_behaviour', 'location', 'pass']
 -> 'related_events' is strange, we may want to pull that out and use separately
-Gokul: ['block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won']
-Arnav: ['tactics', 'carry', 'ball_receipt']
+Gokul: ['block', 'dribble','ball_recovery', 'shot', 'goalkeeper', 'foul_won', 'tactics', 'carry', 'ball_receipt']
+Arnav: N/A
 Nikhil: ['duel', 'interception', 'foul_committed']
 
 
