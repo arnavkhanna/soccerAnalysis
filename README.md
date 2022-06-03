@@ -1,4 +1,4 @@
-# Soccer Analysis - Completed May 31, 2022
+# Passing and Team Analysis in Soccer - Data Cleaning Repo
 
 Welcome to this repository for our work as a part of UC San Diego's [Data Science Student Society's](https://ds3.ucsd.edu/) Winter 2022 Cohort.
 
